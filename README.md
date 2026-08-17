@@ -78,16 +78,6 @@ These repositories show the practical work behind the polished projects:
 - [Big Data Practicals](https://github.com/Zope-07/BigData_Practical) — notebooks and exercises from hands-on big-data learning
 - [AWS Learning Repository](https://github.com/Zope-07/AWS_Lec) — early cloud and Git experiments
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=Zope-07&theme=tokyonight&hide_border=true" alt="Mihir's GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zope-07&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</p>
-
 ## 🤝 Let's connect
 
 If you are working on data engineering, analytics, BI, or applied ML, I would be glad to connect and learn from the conversation.
