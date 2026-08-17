@@ -32,12 +32,10 @@ Power BI project integrating sales, orders, customers, products, feedback, and m
 
 Python and SQL analysis covering data cleaning, exploratory data analysis, visualization, sales trends, customer behaviour, and product performance.
 
-### [Machine Learning Practicals](https://github.com/Zope-07/ML_Practical)
-
-Hands-on notebooks covering house-price modelling, news-article analysis, and a credit EDA case study.
 
 ## Learning repositories
 
+- [Machine Learning Practicals](https://github.com/Zope-07/ML_Practical) — house-price modelling, news-article analysis, and credit EDA notebooks
 - [Big Data Practicals](https://github.com/Zope-07/BigData_Practical)
 - [AWS Learning Repository](https://github.com/Zope-07/AWS_Lec)
 
